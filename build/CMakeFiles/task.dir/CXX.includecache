@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/border_cross.cpp
+border_cross.h
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/border_cross.h
+
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/border_cross.h
+types.h
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/types.h
+
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/gather.cpp
+gather.h
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/gather.h
+cmath
+-
+stdio.h
+-
+
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/gather.h
+types.h
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/types.h
+vector
+-
+
+/home/enpei/Documents/cpp_tensorrt_projs/4.ds_tracker/task/types.h
+vector
+-
+
